@@ -1,0 +1,19 @@
+Name,MaxAnzahl,Lon,Lat,OpeningHours,Type,HeightLimit,Handicapped,Women,ParentsChild,Address,URL
+Bleiche,227,8.266509,50.003342,durchgehend,Parkhaus,2.0,2,keine Information,keine Information,Balthasar-Maler-Gasse 55116 Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-bleiche
+Cinestar,459,8.279382,49.993603,durchgehend,Parkhaus,2.0,8,keine Information,vorhanden,Neutorstrasse 2A 55116 Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-cinestar
+City Port,1033,8.259203,49.998852,durchgehend,Parkhaus,2.0,20,26,vorhanden,Binger Str.19 55131 Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-cityport
+Deutschhausplatz,190,8.270435,50.005204,durchgehend,Parkhaus,2.0,keine Information,keine Information,keine Information,Grosse Bleiche 55116 Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-deutschhausplatz
+Kronberger Hof,456,8.269307,49.999790,durchgehend,Parkhaus,1.75,4,keine Information,keine Information,Am Kronberger Hof,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-kronberger-hof
+Loehrstrasse,145,8.274313,50.002573,durchgehend,Parkhaus,2.0,keine Information,keine Information,keine Information,Loehrstrasse 17 55116Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-l%C3%B6hrstra%C3%9Fe
+Rathaus,545,8.275991,50.001583,durchgehend,Parkhaus,2.0,6,keine Information,vorhanden,Rheinstrasse 66 55116 Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-rathaus
+Rheinallee,94,8.257979,50.014156,durchgehend,Parkhaus,2.0,keine Information,keine Information,keine Information,Rheinallee 64 55118 Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-rheinallee-iii
+Rheinufergarage,497,8.270413,50.008337,durchgehend,Tiefgarage,2.0,8,keine Information,vorhanden,Peter-Altmeier-Allee 55116 Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-rheinufer
+Roemerpassage,181,8.268963,50.001439,durchgehend,Parkhaus,2.0,11,keine Information,vorhanden,Emmeransstrasse 29 55116 Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-r%C3%B6merpassage
+Roemisches Theater,436,8.276665,49.994146,durchgehend,Parkhaus,2.0,10,keine Information,keine Information,Holzhofstrasse 7 55116 Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-r%C3%B6misches-theater
+Schillerplatz,420,8.26481,49.999336,durchgehend,Parkhaus,2.0,keine Information,keine Information,keine Information,Schillerstraße 55116 Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-schillerplatz
+Schlossplatz,122,8.268436,50.006403,durchgehend,Parkplatz,keine Information,keine Information,keine Information,keine Information,Ernst-Ludwig-Strasse 55116 Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-schloss
+Taubertsberg,767,8.256658,49.999294,durchgehend,Parkhaus,2.1,21,keine Information,keine Information,Binger Strasse 18 55116 Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-taubertsberg
+TG Augustusplatz,540,8.262063,49.992833,durchgehend,Tiefgarage,1.9,5 pro Ebene,keine Information,vorhanden,Am Roemerlager 55131 Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-uniklinik-augustusplatz
+Theater,207,8.269769,49.999921,durchgehend,Tiefgarage,1.8,5,keine Information,keine Information,Am Kronberger Hof 25 5116 Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-theater
+Wallstrasse,303,8.245082,50.006871,durchgehend,Parkhaus,2.0,keine Information,keine Information,keine Information,Wallstrasse 55122 Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/parkhaus-wallstra%C3%9Fe
+Zollhafen,171,8.263365,50.014253,durchgehend,Tiefgarage,2.0,keine Information,keine Information,keine Information,Taunusstrasse 55120 Mainz,https://www.parken-in-mainz.de/de/parkhaeuser-tarife/tiefgarage-weinlager

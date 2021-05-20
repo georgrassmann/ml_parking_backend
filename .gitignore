@@ -1,0 +1,7 @@
+# dependencies
+/.vscode
+/env
+project/dwbulk.py
+project/dwd_test.py
+project/historic_weather.py
+#project/__pycache__/
